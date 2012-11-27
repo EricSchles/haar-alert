@@ -6,7 +6,7 @@ Haar Alert
 Author: Morgan Phillips
 Email : winter2718@gmail.com
 
-Copyleft @ 2012
+@Copyleft 2012
 
 '''
 import cv
