@@ -1,0 +1,8 @@
+//ABOUT
+
+Haar Alert is a simple script which scans a given directory for images and recognizes objects based on a haar cascade.
+Then, with appropriate credentials, sends the images via a gmail account.  Scanned files are renamed as <filename>.hscanned.<ext>.
+
+//PURPOSE
+
+This script was written primarily for use in conjunction with some kind of security system, such as 'Motion' or 'ZoneMinder', which dumps images to a directory.
